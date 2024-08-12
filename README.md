@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Yusra AMOURA || Web developer
+### Hi there 👋, I'am Youss || Web developer
 I am a dedicated and versatile web developer with a strong passion for crafting seamless and dynamic user experiences. My expertise spans across both frontend and backend technologies, allowing me to build responsive and performant web applications from concept to deployment.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON 
