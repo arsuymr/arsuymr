@@ -1,7 +1,6 @@
 ### **<div align="center">I'm YUSRA, a front-end freelance developer 👨‍💻💌</div>**  
   
 
--  I’m currently learning next.js !  
   
 
   
