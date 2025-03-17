@@ -1,4 +1,4 @@
-### **<div align="center">I'm YUSRA, a front-end freelance developer 👨‍💻💌</div>**  
+### **<div align="center">👨‍💻💌</div>**  
   
 
   
